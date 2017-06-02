@@ -1,0 +1,16 @@
+Data: From Yahoo Finance (no need for a special library to get the data)
+
+Libraries required:
+
+1. Python environment from Anaconda (https://www.continuum.io/downloads)
+   
+Without anaconda:
+  Numpy
+  Pandas
+  Matplotlib
+  Bokeh
+  Seaborn
+  Sklearn
+  
+
+2.TA-LIB (https://github.com/mrjbq7/ta-lib)
