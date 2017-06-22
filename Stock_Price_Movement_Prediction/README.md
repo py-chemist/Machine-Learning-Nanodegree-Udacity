@@ -15,7 +15,7 @@ It is recommended to install [Anaconda](https://www.continuum.io/downloads), a p
 
 ### Code
 
-The code is provided in the `capstone_project_part_1.ipynb` and `capstone_project_part_2.ipynb' notebook files.
+The code is provided in the `capstone_project_part_1.ipynb` and `capstone_project_part_2.ipynb` notebook files.
 
 ### Run
 
