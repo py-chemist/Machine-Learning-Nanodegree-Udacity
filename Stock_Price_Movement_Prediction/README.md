@@ -22,6 +22,7 @@ The code is provided in the `capstone_project_part_1.ipynb` and `capstone_projec
 In a terminal or command window, navigate to the top-level project directory and run the following commands:
   
 ```jupyter notebook capstone_project_part_1.ipynb```
+
 ```jupyter notebook capstone_project_part_2.ipynb```
 
 
